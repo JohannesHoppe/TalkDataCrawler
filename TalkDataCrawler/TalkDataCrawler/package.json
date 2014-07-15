@@ -1,0 +1,13 @@
+{
+  "name": "TalkDataCrawler",
+  "version": "0.0.0",
+  "description": "TalkDataCrawler",
+  "main": "app.js",
+  "author": {
+    "name": "Johannes",
+    "email": ""
+  }, "dependencies": {
+    "simplecrawler": "0.3.8"
+
+  }
+}

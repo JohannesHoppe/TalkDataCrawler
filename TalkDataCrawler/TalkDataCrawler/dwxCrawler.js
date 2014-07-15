@@ -1,0 +1,1 @@
+﻿var Simplecrawler = required("simplecrawler");
